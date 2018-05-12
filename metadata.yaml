@@ -1,0 +1,29 @@
+_repo: As-I-RememberRecollections-of-American-Society-during-the-Nineteenth-Century_28384
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gouverneur, Marian
+    gutenberg_agent_id: '33302'
+    url: http://www.gutenberg.org/2009/agents/33302
+description: ''
+gutenberg_issued: '2009-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28384'
+  lccn: '11024385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century'
+- !lcsh 'Washington (D.C.) -- Social life and customs'
+- !lcc 'F106'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 19th century'
+title: 'As I Remember
+
+  Recollections of American Society during the Nineteenth Century'
+url: http://www.gutenberg.org/ebooks/28384
